@@ -11,7 +11,7 @@ const Navbar = () => {
         <nav className="nav">
           <div className="container">
               <div className="nav-row">
-                <NavLink to='/' className="logo">
+                <NavLink to='/portfolio' className="logo">
                 <strong>Frontend developer</strong> portfolio
                 </NavLink>
                   
